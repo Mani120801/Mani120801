@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mani120801
+- 👋 Hi, I’m @Manikandan A
 - 👀 I’m interested in ... full stack development
 - 🌱 I’m currently learning ... full stack developer 
 - 📫 How to reach me ...mani120801@gmail.com / 9047146716
