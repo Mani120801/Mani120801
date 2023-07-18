@@ -77,9 +77,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mani120801/Mani120801/output/snake.svg" alt="Snake animation" />
-
-###
