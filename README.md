@@ -1,4 +1,4 @@
-![logo](https://wallpaperaccess.com/full/2819277.png)
+![background](https://wallpaperaccess.com/full/2819277.png)
 <h2 align="left">Hi 👋! My name is Manikandan A and I'm a full stack developer from Madurai</h2>
 
 ###
