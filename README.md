@@ -73,6 +73,7 @@
   </a>
   <a href="https://stackoverflow.com/users/22244658/mani-kandan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mani120801&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth-murugesan" /> </p>
   </a>
 </div>
 
